@@ -3,6 +3,7 @@ Java CLI tool that automates downloading of YouTube playlist videos to audio.
 
 ## Technologies
 * Java 
+* Maven
 * Selenium + WebDriver
 
 ## How to Run 

@@ -1,6 +1,9 @@
 # YouTube Playlist Downloader
 Java CLI tool that automates downloading of YouTube playlist videos to audio. 
 
+![demo.gif](screenshots/demo.gif)
+
+
 ## Technologies
 * Java 
 * Maven

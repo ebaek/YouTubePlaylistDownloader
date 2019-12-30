@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73f651a4-e483-4e5c-a880-6325d68db05e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VdAZlzOshle6Rs48p7YLz3ob43" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Automator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Automator" />
+      <module name="YouTubePlaylistDownloader" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Automator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73f651a4-e483-4e5c-a880-6325d68db05e" name="Default Changelist" comment="" />
+      <created>1577572655240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577572655240</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577649625915">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="304" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.977@0.23.1680.977" timestamp="1577649625915" />
+    <state x="563" y="207" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1577647600491">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="563" y="207" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1680.977@0.23.1680.977" timestamp="1577647600491" />
+    <state width="1660" height="263" key="GridCell.Tab.0.bottom" timestamp="1577668729741">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state width="1660" height="263" key="GridCell.Tab.0.bottom/0.23.1680.977@0.23.1680.977" timestamp="1577668729741" />
+    <state width="1660" height="263" key="GridCell.Tab.0.center" timestamp="1577668729740">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state width="1660" height="263" key="GridCell.Tab.0.center/0.23.1680.977@0.23.1680.977" timestamp="1577668729740" />
+    <state width="1660" height="263" key="GridCell.Tab.0.left" timestamp="1577668729739">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state width="1660" height="263" key="GridCell.Tab.0.left/0.23.1680.977@0.23.1680.977" timestamp="1577668729739" />
+    <state width="1660" height="263" key="GridCell.Tab.0.right" timestamp="1577668729741">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state width="1660" height="263" key="GridCell.Tab.0.right/0.23.1680.977@0.23.1680.977" timestamp="1577668729741" />
+    <state x="378" y="173" key="Maven.ArtifactSearchDialog" timestamp="1577652535596">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="378" y="173" key="Maven.ArtifactSearchDialog/0.23.1680.977@0.23.1680.977" timestamp="1577652535596" />
+    <state x="328" y="93" key="SettingsEditor" timestamp="1577650578130">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="328" y="93" key="SettingsEditor/0.23.1680.977@0.23.1680.977" timestamp="1577650578130" />
+    <state x="517" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1577650900948">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="517" y="344" key="com.intellij.ide.util.TipDialog/0.23.1680.977@0.23.1680.977" timestamp="1577650900948" />
+    <state x="384" y="121" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577664571687">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="384" y="121" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1680.977@0.23.1680.977" timestamp="1577664571687" />
+    <state x="505" y="236" width="670" height="675" key="run.anything.popup" timestamp="1577651029129">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="505" y="236" width="670" height="675" key="run.anything.popup/0.23.1680.977@0.23.1680.977" timestamp="1577651029129" />
+    <state x="505" y="238" width="670" height="676" key="search.everywhere.popup" timestamp="1577662903606">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="505" y="238" width="670" height="676" key="search.everywhere.popup/0.23.1680.977@0.23.1680.977" timestamp="1577662903606" />
+  </component>
+</project>
